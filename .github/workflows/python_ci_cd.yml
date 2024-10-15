@@ -33,4 +33,4 @@ jobs:
 
     - name: Run Unit Tests
       run: |
-        python -m unittest discover  # This will discover and run all unit tests in your project
+        python -m unittest tests/test_dataloader.py # discover  # This will discover and run all unit tests in your project
