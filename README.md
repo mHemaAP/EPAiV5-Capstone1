@@ -1,4 +1,4 @@
-# EPAiV5 - Capstone 1 - DataLoader Package Documentation
+# EPAiV5 - Capstone 1 - DataLoader Package
 
 ## Overview
 The DataLoader package is designed to facilitate the efficient loading, preprocessing, and augmentation of datasets from various sources. It supports multiple file formats and provides functionalities for batch processing, data augmentation, and extensibility to accommodate new data types and sources. The package is organized into several modules: dataloader.py, utils.py, preprocessors.py, and test_dataloader.py.
@@ -119,7 +119,7 @@ python -m unittest discover tests
 ## Test Results
 ### Results - Local PC Testing
 
-![Test Results from Local PC](localPC_tests_passed.JPG)
+![Test Results from Local PC](test_results/localPC_tests_passed.JPG)
 
 ### Results - Git Actions
 
