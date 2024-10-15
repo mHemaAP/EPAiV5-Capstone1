@@ -1,0 +1,19 @@
+# Ignore the 'download' folder and its contents
+datasets/
+
+# Ignore the scratchpad and its contents
+/scratchpad
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore all __pycache__ directories
+**/__pycache__/
+*.pyc
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
